@@ -1,11 +1,11 @@
 #Reinforcement for Lesson 4
 
 # 'X' represents a step
-# 'o' represents a crap and puke bucket (input())
-# 'O' represents a explosive diarrhea (input())
+# 'o' represents a _____ (input())
+# 'O' represents a _____ (input())
 # (Person)XXXXXXXXX o XXXXXXXXX	O O XXXXXXXXX(Exit)
-
 # (Person)XXOOOOOOOOOOOOOOOOOOOOOX(Exit)
+# Task: direct the person to exit
 
 # for (each step S): #where S is the next unknown step
 # 	if (S == 'X'):
