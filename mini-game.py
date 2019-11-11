@@ -1,4 +1,5 @@
 #Reinforcement for Lesson 4
+#Goal: to demonstrate the use of objects, methods, for loops, input() 
 
 # 'X' represents a step
 # 'o' represents a _____ (input())
@@ -57,7 +58,7 @@ class StepsMiniGame():
 
 		return path
 
-#keydpwn and controls
+#keydown and controls
 
 
 
