@@ -35,9 +35,9 @@ class StepsMiniGame():
 		print("Would you like to customize the obstacles? [Enter Y/N]")
 		customize = getch.getch()
 		if (customize == "Y".lower()):
-			self.pebble = input("What would you like 'o' to represent?")
-			self.rock = input("What would you like 'O' to represent?")
-		if (not self.pebble):
+			self.pebble = input("What would you like 'o' to represent? ")
+			self.rock = input("What would you like 'O' to represent? ")
+		if (customize != "Y".lower() or not self.pebble):
 			self.pebble = "pebble"
 			self.rock = "rock"
 
@@ -67,6 +67,7 @@ class StepsMiniGame():
 	#gets user input
 	def game_start(self):
 		self.game_start = True
+		print("The game starts now. Quick, press 'd' to advance or 'a' to dodge.")
 		if (self.path):
 			for next_step in self.path:
 				print(next_step)
