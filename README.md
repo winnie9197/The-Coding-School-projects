@@ -1,3 +1,3 @@
-# code-connects-projects
+# Coding projects for codeConnects
 
--A console runner game build for demonstration (Fall 2019).
+1. A console runner game build for demonstration (Fall 2019).
