@@ -1,6 +1,8 @@
 # Coding projects for codeConnects
 
-This is a collection of projects made during my time at The Coding School, a 501(c)(3) Public Charity. codeCOnnects is a program which aims to empower traditionally underrepresented middle and high school students (Girls / Minorities / Students with learning disabilities / Rural communities / Low socioeconomic students) in the field of computer science.
+This is a collection of projects made during my time at The Coding School, a 501(c)(3) Public Charity. 
+
+codeConnects is a program which aims to empower traditionally underrepresented middle and high school students (Girls / Minorities / Students with learning disabilities / Rural communities / Low socioeconomic students) in the field of computer science.
 
 ## Topics covered in this repository: 
 
